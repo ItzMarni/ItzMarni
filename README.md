@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itz_marni" target="blank"><img src="https://img.shields.io/twitter/follow/itz_marni?logo=twitter&style=for-the-badge" alt="itz_marni" /></a> </p>
 
-- 🔭 I’m currently working on [MineBot](https://github.com/ItzMarni/MineBot/tree/main)
+- 🔭 I’m currently working on [MineBot](https://github.com/ItzMarni/ManaMonitor)
 
 - 🌱 I’m currently learning **NodeJS**
 
