@@ -22,7 +22,8 @@ const Marni = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr            █████████████████▓░░░░░░░   71.22 %
+Markdown     24 mins         ███████▒░░░░░░░░░░░░░░░░░   28.78 %
 ```
 
 <!--END_SECTION:waka-->
