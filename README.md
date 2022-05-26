@@ -21,6 +21,8 @@ const Marni = {
 
 <!--START_SECTION:waka-->
 
+📊 **This Week I Spent My Time On**
+
 ```text
 JavaScript   3 hrs 1 min     █████████████████▓░░░░░░░   70.31 %
 YAML         44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
