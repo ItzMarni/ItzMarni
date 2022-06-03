@@ -21,15 +21,10 @@ const Marni = {
 
 <!--START_SECTION:waka-->
 
-📊 **This Week I Spent My Time On**
-
 ```text
-JavaScript   3 hrs 1 min     █████████████████▓░░░░░░░   70.31 %
-YAML         44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-Markdown     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Batchfile    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   17 hrs 6 mins   ███████████████████████▓░   94.52 %
+JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Python       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
