@@ -7,7 +7,7 @@
 const Marni = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Might learn Python"],
-    tools: ["Opera GX", "Windows", "Discord", "Terminal", "Github"],
+    tools: ["Opera GX", "Windows", "Discord", "Terminal", "Github", "VS Code"],
     askMeAbout: ["anything", "everything", "and more?"],
     technologies: {
         backEnd: {
