@@ -23,10 +23,12 @@ const Marni = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       8 hrs 10 mins   ████████████████████████░   96.61 %
-JSON             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript       9 hrs 7 mins    ████████████████████████░   96.04 %
+HTML             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
