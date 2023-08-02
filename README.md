@@ -11,4 +11,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmarni&label=Profile%20views&color=0e75b6&style=flat" alt="itzmarni" /> </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 36 mins   █████████████▒░░░░░░░░░░░   53.08 %
+JavaScript   1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Text         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Markdown     1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+JSON         1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+```
+
 <!--END_SECTION:waka-->
