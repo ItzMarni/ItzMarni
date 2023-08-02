@@ -2,7 +2,11 @@
 <h3 align="center">A passionate backend developer from The Netherlands</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Luminous (Discord Economy Bot)<br>🌱 I’m currently learning JavaScript & TypeScript<br>💬 Ask me about anything<br>⚡ Fun fact there are two ways to write error-free programs; only the third one works
+🔭 I’m currently working on multiple different projects, mostly private.
+🌱 I’m currently learning JavaScript & TypeScript
+💬 Ask me about anything
+📫 How to reach me: `marni_` on Discord
+⚡ Fun fact there are two ways to write error-free programs; only the third one works
 
 
 # 💻 Tech Stack:
