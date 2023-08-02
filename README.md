@@ -10,6 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmarni&label=Profile%20views&color=0e75b6&style=flat" alt="itzmarni" /> </p>
 
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,3 +24,5 @@ JSON         1 hr            ██░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+-------
