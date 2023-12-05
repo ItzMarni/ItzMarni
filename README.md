@@ -16,10 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   50 mins         ████████████████████████▒   97.34 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
