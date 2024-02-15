@@ -12,6 +12,8 @@
 
 -------
 
+![snake gif](https://github.com/ItzMarni/ItzMArni/blob/output/github-contribution-grid-snake.gif)
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
