@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marni</h1>
-<h3 align="center">A passionate backend developer from The Netherlands</h3>
+<h3 align="center">I make stuff, mostly private although some public.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on multiple different projects, mostly private.<br>🌱 I’m currently learning JavaScript & TypeScript<br>💬 Ask me about anything<br>📫 How to reach me: `marni_` on Discord<br>⚡ Fun fact there are two ways to write error-free programs; only the third one works
@@ -12,7 +12,7 @@
 
 -------
 
-![snake gif](https://github.com/ItzMarni/ItzMArni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ItzMarni/ItzMarni/blob/output/github-contribution-grid-snake.svg)
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
