@@ -8,8 +8,7 @@
 <h3 align="center">I make stuff, mostly private although some public.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on multiple different projects, mostly private.
-📫 How to reach me: `marni_` on Discord
+🔭 I’m currently working on multiple different projects, mostly private.<br>📫 How to reach me: `marni_` on Discord
 
 
 # 💻 Tech Stack:
