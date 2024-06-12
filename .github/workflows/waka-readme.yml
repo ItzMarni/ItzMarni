@@ -17,7 +17,7 @@ jobs:
           # Metrics Config https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file#extras
           LOCALE: 'en'
           #SECTION_NAME: ''
-          COMMIT_BY_ME: 'True'
+          #COMMIT_BY_ME: 'True'
           COMMIT_MESSAGE: 'METRICS: Update Wakatime Stats'
           #COMMIT_USERNAME: ''
           #COMMIT_EMAIL: ''
@@ -25,7 +25,7 @@ jobs:
           #UPDATED_DATE_FORMAT: ''
           SHOW_LINES_OF_CODE: 'True'
           SHOW_TOTAL_CODE_TIME: 'True'
-          SHOW_PROFILE_VIEWS: 'True'
+          #SHOW_PROFILE_VIEWS: 'True'
 
           # Actual Stat Sections
           SHOW_COMMIT: 'False'
