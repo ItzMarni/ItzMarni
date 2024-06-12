@@ -25,15 +25,6 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   1 hr 57 mins    ████████▒░░░░░░░░░░░░░░░░   33.57 %
-Prisma       50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-HTML         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Markdown     28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-INI          25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-```
-
 <!--END_SECTION:waka-->
 
 -------
