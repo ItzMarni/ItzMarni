@@ -23,7 +23,6 @@
   <img alt="github-snake" src="https://github.com/ItzMarni/ItzMarni/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
