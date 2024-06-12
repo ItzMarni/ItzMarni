@@ -25,6 +25,15 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Astro        1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+HTML         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+CSS          37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Prisma       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+```
+
 <!--END_SECTION:waka-->
 
 -------
