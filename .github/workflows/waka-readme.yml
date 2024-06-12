@@ -23,9 +23,9 @@ jobs:
           #COMMIT_EMAIL: ''
           SHOW_UPDATED_DATE: 'False'
           #UPDATED_DATE_FORMAT: ''
-          SHOW_LINES_OF_CODE: 'True'
-          SHOW_TOTAL_CODE_TIME: 'True'
-          #SHOW_PROFILE_VIEWS: ''
+          SHOW_LINES_OF_CODE: 'Flase'
+          SHOW_TOTAL_CODE_TIME: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
 
           # Actual Stat Sections
           SHOW_COMMIT: 'False'
