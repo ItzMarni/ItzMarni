@@ -7,6 +7,8 @@
 </h1>
 <h3 align="center">I make stuff, mostly private although some public.</h3>
 
+# Please bully @u9n238n, HIS discord is `ewhore.` (he a grandpa)
+
 # 💫 About Me:
 🔭 I’m currently working on multiple different projects, mostly private.<br>📫 How to reach me: `marni_` on Discord
 
