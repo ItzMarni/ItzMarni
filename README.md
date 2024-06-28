@@ -28,14 +28,14 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.55 % 
-JavaScript               50 mins             ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-JSON                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+JavaScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+JSON                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+CSS                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Astro                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
