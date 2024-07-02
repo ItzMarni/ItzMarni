@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY_NEW }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Metrics Config https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file#extras
           LOCALE: 'en'
