@@ -28,14 +28,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████████████████░   94.20 % 
-Java Properties          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
