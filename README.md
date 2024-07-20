@@ -28,10 +28,11 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.00 % 
+Astro                    10 mins             ████████████████░░░░░░░░░   64.79 % 
+Markdown                 5 mins              █████████░░░░░░░░░░░░░░░░   35.21 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
