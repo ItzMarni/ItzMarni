@@ -28,14 +28,14 @@
 
 ```text
 💬 Programming Languages: 
-Text                     3 hrs 6 mins        ███████████████░░░░░░░░░░   60.74 % 
-Astro                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-CSS                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Text                     1 hr 29 mins        ███████████░░░░░░░░░░░░░░   44.94 % 
+Astro                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+CSS                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 Operating System: 
-Linux                    5 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
