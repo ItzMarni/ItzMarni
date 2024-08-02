@@ -24,20 +24,6 @@
 </picture>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Astro                    38 mins             █████████░░░░░░░░░░░░░░░░   34.02 % 
-CSS                      28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-
-💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
