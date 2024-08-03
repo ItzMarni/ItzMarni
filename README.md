@@ -24,14 +24,28 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     58 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
+Astro                    36 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+TypeScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+
+💻 Operating System: 
+Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
