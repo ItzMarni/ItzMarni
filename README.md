@@ -28,15 +28,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.99 % 
-Java                     5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Java                     7 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.00 % 
+TypeScript               4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 💻 Operating System: 
-Linux                    17 hrs 11 mins      ████████████████████████░   94.85 % 
-Windows                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Linux                    16 hrs 17 mins      ████████████████████████░   94.58 % 
+Windows                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 
 **I Mostly Code in TypeScript** 
