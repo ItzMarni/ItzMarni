@@ -28,14 +28,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     32 hrs 47 mins      ███████████████████████░░   90.70 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Gradle                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-TypeScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Java Properties          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Java                     35 hrs 29 mins      ███████████████████████░░   91.38 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Gradle                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Mixin Json Configuration 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    36 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    38 hrs 50 mins      █████████████████████████   100.00 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
