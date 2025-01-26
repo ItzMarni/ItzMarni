@@ -28,11 +28,11 @@
 
 ```text
 💬 Programming Languages: 
-Java                     12 hrs 36 mins      ███████████████████████░░   92.89 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java                     12 hrs 37 mins      ███████████████████████░░   93.06 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Mixin Json Configuration 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
 Linux                    13 hrs 34 mins      █████████████████████████   100.00 % 
