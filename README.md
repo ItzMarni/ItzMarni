@@ -24,20 +24,6 @@
 </picture>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               8 hrs 29 mins       █████████████░░░░░░░░░░░░   53.59 % 
-Java                     4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Prisma                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-💻 Operating System: 
-Linux                    15 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
