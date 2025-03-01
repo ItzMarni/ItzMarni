@@ -28,24 +28,24 @@
 
 ```text
 💬 Programming Languages: 
-Java                     18 hrs 40 mins      ███████████████████░░░░░░   77.45 % 
-TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Mixin Json Configuration 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Java                     22 hrs 40 mins      ██████████████████████░░░   87.36 % 
+TypeScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Mixin Json Configuration 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Prisma                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Linux                    24 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    25 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-GLSL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               13 repos            ███████████░░░░░░░░░░░░░░   43.33 % 
+Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+GLSL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
