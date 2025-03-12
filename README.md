@@ -28,14 +28,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 8 mins       ██████████████████████░░░   87.52 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Java                     10 hrs 11 mins      ██████████████████████░░░   88.01 % 
+Mixin Json Configuration 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Gradle                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Linux                    11 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
