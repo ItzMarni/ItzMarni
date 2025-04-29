@@ -1,0 +1,45 @@
+name: Github Profile Metrics
+
+on:
+  schedule:
+    # Runs at 12am IST (actually runs at 12 am amsterdam time)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY_NEW }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Metrics Config https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file#extras
+          LOCALE: 'en'
+          #SECTION_NAME: ''
+          #COMMIT_BY_ME: 'True'
+          COMMIT_MESSAGE: 'METRICS: Update Wakatime Stats'
+          #COMMIT_USERNAME: ''
+          #COMMIT_EMAIL: ''
+          SHOW_UPDATED_DATE: 'False'
+          #UPDATED_DATE_FORMAT: ''
+          SHOW_LINES_OF_CODE: 'Flase'
+          SHOW_TOTAL_CODE_TIME: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+
+          # Actual Stat Sections
+          SHOW_COMMIT: 'False'
+          SHOW_DAYS_OF_WEEK: 'False'
+          SHOW_LANGUAGE: 'True'
+          SHOW_OS: 'True'
+          SHOW_PROJECTS: 'False' # I'd leak personal shit with this fr
+          SHOW_TIMEZONE: 'False'
+          SHOW_EDITORS: 'False'
+          SHOW_LANGUAGE_PER_REPO": 'False'
+          SHOW_SHORT_INFO: 'False'
+          SHOW_LOC_CHART: 'False'
+          
+          #IGNORED_REPOS: ''
+          SYMBOL_VERSION: '1'
+          
+          DEBUG_LOGGING: 'False'
