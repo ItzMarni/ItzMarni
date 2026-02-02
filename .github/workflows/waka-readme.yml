@@ -21,7 +21,7 @@ jobs:
           COMMIT_MESSAGE: 'METRICS: Update Wakatime Stats'
           #COMMIT_USERNAME: ''
           #COMMIT_EMAIL: ''
-          SHOW_UPDATED_DATE: 'False'
+          SHOW_UPDATED_DATE: 'True'
           #UPDATED_DATE_FORMAT: ''
           SHOW_LINES_OF_CODE: 'Flase'
           SHOW_TOTAL_CODE_TIME: 'False'
