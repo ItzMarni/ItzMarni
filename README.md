@@ -23,20 +23,42 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.07 % 
+Java                     2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Python                   2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
+🔥 Editors: 
+Rider                    4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
+PyCharm                  3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+IntelliJ IDEA            2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+VS Code                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+💻 Operating System: 
+Linux                    9 hrs 46 mins       ████████████████████░░░░░   79.42 % 
+Windows                  2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
+Java                     17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
 HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 20/03/2026 02:21:06 UTC
+ Last Updated on 21/03/2026 02:08:27 UTC
 <!--END_SECTION:waka-->
 
 -------
