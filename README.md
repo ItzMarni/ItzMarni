@@ -23,20 +23,41 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       52 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+
+🔥 Editors: 
+Rider                    52 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+IntelliJ IDEA            34 mins             ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+VS Code                  33 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+
+💻 Operating System: 
+Linux                    1 hr 29 mins        ██████████████████░░░░░░░   73.44 % 
+Windows                  32 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
-Java                     17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     18 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 28/03/2026 02:25:44 UTC
+ Last Updated on 29/03/2026 02:37:56 UTC
 <!--END_SECTION:waka-->
 
 -------
