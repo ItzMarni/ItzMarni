@@ -27,29 +27,33 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     10 mins             ███████████████████░░░░░░   74.36 % 
+Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             ████████████████████░░░░░   81.47 % 
+PyCharm                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     20 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Java                     19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 26/04/2026 02:54:11 UTC
+ Last Updated on 27/04/2026 02:57:04 UTC
 <!--END_SECTION:waka-->
 
 -------
