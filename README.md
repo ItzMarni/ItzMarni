@@ -23,20 +23,39 @@
 </picture>
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Java** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Java                     19 repos            ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+💬 Programming Languages: 
+Java                     7 hrs 47 mins       ██████████████████░░░░░░░   70.74 % 
+Zig                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+🔥 Editors: 
+IntelliJ IDEA            8 hrs 8 mins        ██████████████████░░░░░░░   73.96 % 
+VS Code                  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+WebStorm                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+
+💻 Operating System: 
+Linux                    11 hrs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Java                     18 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 Zig                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 03:39:06 UTC
+ Last Updated on 07/06/2026 04:06:40 UTC
 <!--END_SECTION:waka-->
 
 -------
