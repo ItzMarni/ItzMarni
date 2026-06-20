@@ -23,20 +23,41 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     3 hrs 12 mins       ██████████████░░░░░░░░░░░   54.13 % 
+C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Zig                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+
+🔥 Editors: 
+IntelliJ IDEA            3 hrs 28 mins       ███████████████░░░░░░░░░░   58.54 % 
+VS Code                  1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Rider                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+WebStorm                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+
+💻 Operating System: 
+Linux                    5 hrs 11 mins       ██████████████████████░░░   87.68 % 
+Windows                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Java                     18 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Zig                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Java                     19 repos            ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 
 
 
 
- Last Updated on 19/06/2026 04:27:03 UTC
+ Last Updated on 20/06/2026 03:51:56 UTC
 <!--END_SECTION:waka-->
 
 -------
