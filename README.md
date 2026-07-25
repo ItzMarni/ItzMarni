@@ -23,37 +23,20 @@
 </picture>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     2 hrs 38 mins       ███████████████████░░░░░░   77.10 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Properties               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-🔥 Editors: 
-IntelliJ IDEA            3 hrs 25 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     21 repos            ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Java                     22 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
+TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 02:46:22 UTC
+ Last Updated on 25/07/2026 02:45:09 UTC
 <!--END_SECTION:waka-->
 
 -------
