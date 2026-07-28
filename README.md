@@ -23,6 +23,8 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -40,6 +42,12 @@ IntelliJ IDEA            6 hrs 16 mins       ███████████�
 Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -53,7 +61,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:19:02 UTC
+ Last Updated on 28/07/2026 02:37:47 UTC
 <!--END_SECTION:waka-->
 
 -------
