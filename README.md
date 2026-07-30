@@ -23,21 +23,23 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 28 mins       ████████████████░░░░░░░░░   63.34 % 
-Kotlin                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Properties               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Java                     4 hrs 5 mins        ███████████████░░░░░░░░░░   61.66 % 
+Kotlin                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Properties               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 3 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,7 +61,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:44:42 UTC
+ Last Updated on 30/07/2026 02:30:04 UTC
 <!--END_SECTION:waka-->
 
 -------
