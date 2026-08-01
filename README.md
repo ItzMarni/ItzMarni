@@ -29,17 +29,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 5 mins        ███████████████░░░░░░░░░░   61.66 % 
-Kotlin                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Properties               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Java                     5 hrs 24 mins       █████████████████░░░░░░░░   69.75 % 
+Kotlin                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 37 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -51,17 +51,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.51 % 
-TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.94 % 
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 31/07/2026 02:54:53 UTC
+ Last Updated on 01/08/2026 02:54:19 UTC
 <!--END_SECTION:waka-->
 
 -------
