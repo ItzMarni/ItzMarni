@@ -29,17 +29,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     5 hrs 24 mins       █████████████████░░░░░░░░   69.75 % 
-Kotlin                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-SQL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Java                     5 hrs 30 mins       █████████████████░░░░░░░░   66.72 % 
+Kotlin                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 45 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 4 mins        ████████████████████████░   97.64 % 
+WebStorm                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -61,7 +62,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 02:54:19 UTC
+ Last Updated on 02/08/2026 02:53:13 UTC
 <!--END_SECTION:waka-->
 
 -------
