@@ -41,8 +41,20 @@ WebStorm                 2 hrs 45 mins       ████████░░░�
 Linux                    9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
+**I Mostly Code in Java** 
 
- Last Updated on 03/08/2026 18:55:54 UTC
+```text
+Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.94 % 
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+```
+
+
+
+
+ Last Updated on 03/08/2026 18:57:30 UTC
 <!--END_SECTION:waka-->
 
 -------
