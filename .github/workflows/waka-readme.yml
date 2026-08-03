@@ -23,7 +23,7 @@ jobs:
           #COMMIT_EMAIL: ''
           SHOW_UPDATED_DATE: 'True'
           #UPDATED_DATE_FORMAT: ''
-          SHOW_LINES_OF_CODE: 'Flase'
+          SHOW_LINES_OF_CODE: 'False'
           SHOW_TOTAL_CODE_TIME: 'False'
           SHOW_PROFILE_VIEWS: 'False'
 
@@ -38,6 +38,9 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
+
+          SHOW_AI_CODING: 'False'
+          SHOW_AI_CODE_TIME: 'False'
           
           #IGNORED_REPOS: ''
           SYMBOL_VERSION: '1'
