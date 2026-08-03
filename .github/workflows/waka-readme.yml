@@ -35,7 +35,7 @@ jobs:
           SHOW_PROJECTS: 'False' # I'd leak personal shit with this fr
           SHOW_TIMEZONE: 'False'
           SHOW_EDITORS: 'True'
-          SHOW_LANGUAGE_PER_REPO": 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
 
