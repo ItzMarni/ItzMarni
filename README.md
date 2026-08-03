@@ -23,8 +23,32 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/08/2026 18:45:55 UTC
+```text
+💬 Programming Languages: 
+Java                     5 hrs 21 mins       ███████████████░░░░░░░░░░   58.56 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+textmate                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+
+🔥 Editors: 
+IntelliJ IDEA            6 hrs 23 mins       █████████████████░░░░░░░░   69.85 % 
+WebStorm                 2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
+
+💻 Operating System: 
+Linux                    9 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 03/08/2026 18:48:16 UTC
 <!--END_SECTION:waka-->
 
 -------
