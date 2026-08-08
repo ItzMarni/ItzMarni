@@ -23,6 +23,24 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     7 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.70 % 
+TypeScript               3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+
+🔥 Editors: 
+IntelliJ IDEA            8 hrs 8 mins        █████████████░░░░░░░░░░░░   52.45 % 
+WebStorm                 7 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.55 % 
+
+💻 Operating System: 
+Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -36,7 +54,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:42:49 UTC
+ Last Updated on 08/08/2026 01:43:24 UTC
 <!--END_SECTION:waka-->
 
 -------
