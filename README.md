@@ -27,18 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     28 hrs 23 mins      ██████████████████████░░░   86.94 % 
-TypeScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-textmate                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java                     40 hrs 20 mins      ████████████████████████░   96.23 % 
+JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+textmate                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Mixin Json Configuration 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            29 hrs 45 mins      ███████████████████████░░   91.10 % 
-WebStorm                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+IntelliJ IDEA            41 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -54,7 +53,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 02:02:00 UTC
+ Last Updated on 13/08/2026 02:04:16 UTC
 <!--END_SECTION:waka-->
 
 -------
