@@ -43,17 +43,17 @@ Linux                    46 hrs 50 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.94 % 
-TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Zig                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.51 % 
+TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 01:18:03 UTC
+ Last Updated on 20/08/2026 01:17:27 UTC
 <!--END_SECTION:waka-->
 
 -------
