@@ -27,17 +27,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     44 hrs 24 mins      ████████████████████████░   94.81 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Kotlin                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Class Tweaker            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java                     40 hrs 42 mins      █████████████████████░░░░   83.95 % 
+Kotlin                   6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Class Tweaker            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+GLSL                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-IntelliJ IDEA            46 hrs 50 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            48 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    46 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -53,7 +53,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:17:27 UTC
+ Last Updated on 21/08/2026 01:21:09 UTC
 <!--END_SECTION:waka-->
 
 -------
