@@ -27,18 +27,18 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   14 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.49 % 
-Java                     14 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.50 % 
-Glsl File                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Go                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Kotlin                   8 hrs 30 mins       ██████████████░░░░░░░░░░░   56.56 % 
+Java                     5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+Glsl File                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Go                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 49 mins      █████████████████████████   99.11 % 
-GoLand                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+IntelliJ IDEA            14 hrs 46 mins      █████████████████████████   98.28 % 
+GoLand                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Linux                    29 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -54,7 +54,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:21:55 UTC
+ Last Updated on 27/08/2026 08:03:09 UTC
 <!--END_SECTION:waka-->
 
 -------
