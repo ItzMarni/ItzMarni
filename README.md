@@ -27,21 +27,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
-Python                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Java                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+TypeScript               7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Python                   4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Bash                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Java                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
-WebStorm                 8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
-IntelliJ IDEA            2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Copilot CLI              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+VS Code                  10 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.90 % 
+WebStorm                 8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Claude Code              5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+IntelliJ IDEA            2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Linux                    22 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,7 +57,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 03:23:50 UTC
+ Last Updated on 05/09/2026 03:25:49 UTC
 <!--END_SECTION:waka-->
 
 -------
