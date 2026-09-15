@@ -27,21 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-Java                     18 hrs 27 mins      ███████████████░░░░░░░░░░   58.73 % 
-TypeScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Kotlin                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Nix                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Java                     16 hrs 15 mins      █████████████░░░░░░░░░░░░   53.36 % 
+TypeScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Kotlin                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Nix                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 48 mins      ████████████░░░░░░░░░░░░░   47.11 % 
-Codex CLI                13 hrs 23 mins      ███████████░░░░░░░░░░░░░░   42.61 % 
-VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-WebStorm                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Codex CLI                14 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.58 % 
+IntelliJ IDEA            12 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.13 % 
+VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+WebStorm                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    30 hrs 57 mins      █████████████████████████   98.46 % 
-Windows                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Linux                    29 hrs 58 mins      █████████████████████████   98.41 % 
+Windows                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,7 +58,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 03:51:41 UTC
+ Last Updated on 15/09/2026 03:51:47 UTC
 <!--END_SECTION:waka-->
 
 -------
