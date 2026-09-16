@@ -27,22 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-Java                     16 hrs 15 mins      █████████████░░░░░░░░░░░░   53.36 % 
-TypeScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Kotlin                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Markdown                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Nix                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Java                     19 hrs 23 mins      ██████████████░░░░░░░░░░░   56.93 % 
+TypeScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Kotlin                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Glsl File                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Codex CLI                14 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.58 % 
-IntelliJ IDEA            12 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.13 % 
-VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-WebStorm                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+IntelliJ IDEA            17 hrs 43 mins      █████████████░░░░░░░░░░░░   52.02 % 
+Codex CLI                13 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.22 % 
+WebStorm                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Linux                    29 hrs 58 mins      █████████████████████████   98.41 % 
-Windows                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Linux                    33 hrs 59 mins      █████████████████████████   99.77 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in Java** 
@@ -58,7 +58,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 03:51:47 UTC
+ Last Updated on 16/09/2026 03:48:47 UTC
 <!--END_SECTION:waka-->
 
 -------
