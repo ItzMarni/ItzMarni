@@ -23,6 +23,27 @@
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     18 hrs 19 mins      █████████████████░░░░░░░░   67.61 % 
+Glsl File                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+IntelliJ IDEA            21 hrs 2 mins       ███████████████████░░░░░░   77.63 % 
+Codex CLI                4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+
+💻 Operating System: 
+Linux                    27 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -36,7 +57,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 03:54:09 UTC
+ Last Updated on 18/09/2026 03:41:03 UTC
 <!--END_SECTION:waka-->
 
 -------
