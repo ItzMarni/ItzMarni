@@ -27,21 +27,20 @@
 
 ```text
 💬 Programming Languages: 
-Java                     18 hrs 19 mins      █████████████████░░░░░░░░   67.61 % 
-Glsl File                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Java                     22 hrs 28 mins      ██████████████████░░░░░░░   72.62 % 
+Glsl File                2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 2 mins       ███████████████████░░░░░░   77.63 % 
-Codex CLI                4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+IntelliJ IDEA            25 hrs 43 mins      █████████████████████░░░░   83.12 % 
+Codex CLI                4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Copilot CLI              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Linux                    27 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    30 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,7 +56,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 03:37:54 UTC
+ Last Updated on 20/09/2026 03:53:42 UTC
 <!--END_SECTION:waka-->
 
 -------
