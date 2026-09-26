@@ -27,19 +27,19 @@
 
 ```text
 💬 Programming Languages: 
-Java                     29 hrs 21 mins      █████████████████████░░░░   82.70 % 
-Glsl File                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-TOML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Java                     29 hrs 20 mins      █████████████████████░░░░   82.93 % 
+Glsl File                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TOML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Python                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 hrs 26 mins      ███████████████████░░░░░░   74.46 % 
-Codex CLI                7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-VS Code                  2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+IntelliJ IDEA            25 hrs              ██████████████████░░░░░░░   70.70 % 
+Codex CLI                8 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+VS Code                  2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Linux                    35 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -55,7 +55,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 03:54:49 UTC
+ Last Updated on 26/09/2026 03:59:36 UTC
 <!--END_SECTION:waka-->
 
 -------
