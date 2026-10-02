@@ -27,20 +27,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     21 hrs 13 mins      ██████████████████████░░░   87.48 % 
-Glsl File                1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-V shell                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-GLSL                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Java                     17 hrs 57 mins      █████████████████████░░░░   83.52 % 
+Glsl File                1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+V shell                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+GLSL                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 41 mins      ███████████████░░░░░░░░░░   60.55 % 
-Codex CLI                9 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+IntelliJ IDEA            13 hrs 7 mins       ███████████████░░░░░░░░░░   61.02 % 
+Codex CLI                8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.76 % 
+Rider                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Linux                    24 hrs 12 mins      █████████████████████████   99.79 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Linux                    21 hrs 17 mins      █████████████████████████   99.01 % 
+Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 **I Mostly Code in Java** 
@@ -56,7 +57,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 04:41:35 UTC
+ Last Updated on 02/10/2026 04:33:20 UTC
 <!--END_SECTION:waka-->
 
 -------
