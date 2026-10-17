@@ -27,22 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Nix                      2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JavaScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-CSS                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Java                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+JavaScript               2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Nix                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+CSS                      1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-VS Code                  2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-IntelliJ IDEA            1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Rider                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Codex Vscode             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Codex CLI                8 hrs 28 mins       ███████████████░░░░░░░░░░   58.52 % 
+VS Code                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+IntelliJ IDEA            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Codex Vscode             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Copilot CLI              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Linux                    11 hrs 59 mins      ██████████████████████░░░   86.03 % 
-Windows                  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Linux                    12 hrs 32 mins      ██████████████████████░░░   86.57 % 
+Windows                  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
 
 **I Mostly Code in Java** 
@@ -58,7 +58,7 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:34:04 UTC
+ Last Updated on 17/10/2026 03:24:29 UTC
 <!--END_SECTION:waka-->
 
 -------
