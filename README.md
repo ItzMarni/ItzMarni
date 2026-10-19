@@ -27,38 +27,38 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Nix                      2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-TypeScript               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Java                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Nix                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Markdown                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.76 % 
-WebStorm                 3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-VS Code                  2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-IntelliJ IDEA            2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Codex Vscode             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Codex CLI                9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.22 % 
+WebStorm                 4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+VS Code                  4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+IntelliJ IDEA            2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Neovim                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 💻 Operating System: 
-Linux                    18 hrs 51 mins      ███████████████████████░░   90.65 % 
-Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Linux                    21 hrs 48 mins      ███████████████████████░░   91.81 % 
+Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     21 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Java                     21 repos            █████████░░░░░░░░░░░░░░░░   34.43 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+C                        5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 03:30:11 UTC
+ Last Updated on 19/10/2026 03:41:36 UTC
 <!--END_SECTION:waka-->
 
 -------
