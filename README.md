@@ -27,22 +27,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-TypeScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-C                        2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-JavaScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Java                     6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+C                        3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Nix                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-WebStorm                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-VS Code                  3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Neovim                   3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-IntelliJ IDEA            2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Codex CLI                8 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
+IntelliJ IDEA            6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+WebStorm                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Neovim                   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+VS Code                  2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 
 💻 Operating System: 
-Linux                    23 hrs 33 mins      ███████████████████████░░   92.37 % 
-Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Linux                    26 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -58,7 +57,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:52:20 UTC
+ Last Updated on 21/10/2026 03:42:18 UTC
 <!--END_SECTION:waka-->
 
 -------
