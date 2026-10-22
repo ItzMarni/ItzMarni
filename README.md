@@ -27,21 +27,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-C                        3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Nix                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Java                     11 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
+C                        3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Nix                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Lua                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
-IntelliJ IDEA            6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-WebStorm                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Neovim                   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-VS Code                  2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+IntelliJ IDEA            11 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.45 % 
+Codex CLI                6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+WebStorm                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Neovim                   4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+VS Code                  2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,7 +57,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:42:18 UTC
+ Last Updated on 22/10/2026 03:42:09 UTC
 <!--END_SECTION:waka-->
 
 -------
