@@ -27,21 +27,20 @@
 
 ```text
 💬 Programming Languages: 
-Java                     22 hrs 47 mins      ██████████████████░░░░░░░   72.15 % 
-C                        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Java                     22 hrs 28 mins      ███████████████████░░░░░░   76.76 % 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C                        1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 4 mins       ██████████████████████░░░   88.89 % 
-Neovim                   2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-WebStorm                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+IntelliJ IDEA            27 hrs 57 mins      ████████████████████████░   95.44 % 
+Neovim                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    31 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 16 mins      █████████████████████████   99.97 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,7 +56,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:42:01 UTC
+ Last Updated on 27/10/2026 04:05:33 UTC
 <!--END_SECTION:waka-->
 
 -------
